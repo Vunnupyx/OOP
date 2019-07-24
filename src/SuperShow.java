@@ -1,5 +1,5 @@
 public class SuperShow {
-        String str = "SuperCLassssssss";
+        String str = "Superdd";
         public void show() {
             System.out.println("Super.show: " + str);
         }
